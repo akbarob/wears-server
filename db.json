@@ -1,0 +1,71 @@
+{
+    "women":[
+    {
+        "id": 0,
+        "name": "adidas Training cropped sweatshirt",
+        "image": "images/women6.webp",
+        "category": "mains",
+        "label": "-42%",
+        "oldprice": "N48.99",
+        "price": "N24.99",
+        "featured": true,
+        "description": "adidas Training cropped sweatshirt with three stripe in blush pink."
+    },
+    {
+        "id": 1,
+        "name": "Lola May oversized",
+        "image": "images/woman1.webp",
+        "category": "mains",
+        "label": "-50%",
+        "oldprice": "N45.99",
+        "price": "N26.99",
+        "featured": true,
+        "description": "WEARS DESIGN natural crinkle halter top with shirred waist in oat."
+    },
+    {
+        "id": 2,
+        "name": "Influence bandeau",
+        "image": "images/women2.jpg",
+        "category": "mains",
+        "label": "-13%",
+        "oldprice": "N30.99",
+        "price": "N26.00",
+        "featured": true,
+        "description": "Influence bandeau beach maxi dress in leopard print."
+    },
+    {
+        "id": 3,
+        "name": "WEARS DESIGN",
+        "image": "images/women3.webp",
+        "category": "mains",
+        "label": "-13%",
+        "oldprice": "N50.99",
+        "price": "N32.00",
+        "featured": true,
+        "description": "WEARS DESIGN Mix & Match linen suit in peach."
+    },
+    {
+        "id": 4,
+        "name": "Heartbreak",
+        "image": "images/women4.webp",
+        "category": "mains",
+        "label": "-69%",
+        "oldprice": "N28.99",
+        "price": "N7.00",
+        "featured": true,
+        "description": "Heartbreak collared co-ord in taupe."
+    },
+    {
+        "id": 5,
+        "name": "Heartbreak",
+        "image": "images/women5.webp",
+        "category": "mains",
+        "label": "-39%",
+        "oldprice": "N49.95",
+        "price": "N30.00",
+        "featured": true,
+        "description": "Nike mini swoosh flared joggers in black."
+    }
+    ]
+}
+
