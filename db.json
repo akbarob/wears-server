@@ -5,7 +5,7 @@
         "name": "adidas Training cropped sweatshirt",
         "image": "images/women6.webp",
         "category": "mains",
-        "label": "-42%",
+        "discount": "-42%",
         "oldprice": "N48.99",
         "price": "N24.99",
         "featured": true,
@@ -16,7 +16,7 @@
         "name": "Lola May oversized",
         "image": "images/woman1.webp",
         "category": "mains",
-        "label": "-50%",
+        "discount": "-50%",
         "oldprice": "N45.99",
         "price": "N26.99",
         "featured": true,
@@ -27,7 +27,7 @@
         "name": "Influence bandeau",
         "image": "images/women2.jpg",
         "category": "mains",
-        "label": "-13%",
+        "discount": "-13%",
         "oldprice": "N30.99",
         "price": "N26.00",
         "featured": true,
@@ -38,7 +38,7 @@
         "name": "WEARS DESIGN",
         "image": "images/women3.webp",
         "category": "mains",
-        "label": "-13%",
+        "discount": "-13%",
         "oldprice": "N50.99",
         "price": "N32.00",
         "featured": true,
@@ -49,7 +49,7 @@
         "name": "Heartbreak",
         "image": "images/women4.webp",
         "category": "mains",
-        "label": "-69%",
+        "discount": "-69%",
         "oldprice": "N28.99",
         "price": "N7.00",
         "featured": true,
@@ -60,12 +60,79 @@
         "name": "Heartbreak",
         "image": "images/women5.webp",
         "category": "mains",
-        "label": "-39%",
+        "discount": "-39%",
         "oldprice": "N49.95",
         "price": "N30.00",
         "featured": true,
         "description": "Nike mini swoosh flared joggers in black."
     }
+    ],
+    "men":[
+    {
+        "id":0,
+        "name": "Shorts in khaki",
+        "image": "images/men1.webp",
+        "category": "mains",
+        "discount": "-19%",
+        "oldprice": "N18.95",
+        "price": "N14.50",
+        "featured": true,
+        "description": "WEARS DESIGN runner swim shorts in khaki with white binding."
+
+    },
+    {
+        "id":1,
+        "name": "oversized t-shirt",
+        "image": "images/men2.webp",
+        "category": "mains",
+        "price": "N5,000.00",
+        "featured": true,
+        "description": "WEARS DESIGN oversized t-shirt in brown lace texture ."
+
+    },
+    {
+        "id":2,
+        "name": "relaxed suit in brown",
+        "image": "images/men3.webp",
+        "category": "mains",
+        "price": "N25,000.00",
+        "featured": true,
+        "description": "WEARS DESIGN soft touch relaxed suit in brown ."
+
+    },
+    {
+        "id":3,
+        "name": "3 piece Agbada",
+        "image": "images/men4.jpg",
+        "category": "mains",
+        "price": "N18,000.00",
+        "featured": true,
+        "description": "WEARS DESIGN 3 piece Agbada in african print with Phoenix Embroidery ."
+
+    },
+    {
+        "id":4,
+        "name": "2 piece with curved cut",
+        "image": "images/men5.webp",
+        "category": "mains",
+        "discount": "-19%",
+        "oldprice": "N30000.00",
+        "price": "N24,300.50",
+        "featured": true,
+        "description": "WEARS Actual co-ord with curved cut and sew detailing and logo print in multi."
+
+    },
+    {
+        "id":5,
+        "name": "2 piece with curved cut",
+        "image": "images/men6.webp",
+        "category": "mains",
+        "discount": "-40%",
+        "oldprice": "N35,000.00",
+        "price": "N21,000.50",
+        "featured": true,
+        "description": "WEARS Carhartt WIP prospector jacket in camo."
+
+    },
     ]
 }
-
